@@ -16,3 +16,6 @@ This is one of the required projects to earn your certification.
 
 For this project, we will build a tribute page for a subject of your choosing, fictional or real.
 
+link to the deployed version:
+[https://ibraheem-areeda.github.io/Tribute-Page/](https://ibraheem-areeda.github.io/Tribute-Page/)
+
